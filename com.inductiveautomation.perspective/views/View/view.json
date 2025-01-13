@@ -46,6 +46,21 @@
           }
         },
         "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "name": "Icon"
+        },
+        "position": {
+          "height": 94,
+          "width": 122,
+          "x": 339,
+          "y": 145
+        },
+        "props": {
+          "path": "material/insert_emoticon"
+        },
+        "type": "ia.display.icon"
       }
     ],
     "meta": {
