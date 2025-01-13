@@ -1,0 +1,33 @@
+{
+  "scope": "DG",
+  "version": 2,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "query.sql"
+  ],
+  "attributes": {
+    "useMaxReturnSize": false,
+    "autoBatchEnabled": false,
+    "fallbackValue": "",
+    "maxReturnSize": 100,
+    "cacheUnit": "SEC",
+    "type": "Query",
+    "enabled": true,
+    "cacheAmount": 1,
+    "cacheEnabled": false,
+    "database": "lepontetmes_Dalles_Process",
+    "fallbackEnabled": false,
+    "lastModificationSignature": "54fb20eba9be5cf79f133a913b837adeb2bc689c12d6659f39d0e46a78e5dc3a",
+    "permissions": [
+      {
+        "zone": "",
+        "role": ""
+      }
+    ],
+    "lastModification": {
+      "actor": "Admin",
+      "timestamp": "2025-01-13T09:59:57Z"
+    }
+  }
+}
