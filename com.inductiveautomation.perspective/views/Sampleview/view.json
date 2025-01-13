@@ -41,6 +41,9 @@
           "x": 264,
           "y": 411
         },
+        "props": {
+          "text": "Sample Text "
+        },
         "type": "ia.input.button"
       }
     ],
