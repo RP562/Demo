@@ -1,1 +1,1 @@
-SELECT * FROM	sepr.frc_logs 
+SELECT * FROM	sepr.frc_logs order by 1 desc

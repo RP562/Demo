@@ -16,9 +16,9 @@
     "enabled": true,
     "cacheAmount": 1,
     "cacheEnabled": false,
-    "database": "",
+    "database": "lepontetmes_Dalles_Process",
     "fallbackEnabled": false,
-    "lastModificationSignature": "83ae88a6dc86806d0237cd625604a7b3a7c37d1250c9f1f1c30afcdc77fa6103",
+    "lastModificationSignature": "f7d783314252471e2a3a7f2f972a151d738476b316427e7c354d36939c31a105",
     "permissions": [
       {
         "zone": "",
@@ -26,8 +26,8 @@
       }
     ],
     "lastModification": {
-      "actor": "Rp562",
-      "timestamp": "2025-01-14T05:42:49Z"
+      "actor": "Admin",
+      "timestamp": "2025-01-14T05:58:05Z"
     }
   }
 }
