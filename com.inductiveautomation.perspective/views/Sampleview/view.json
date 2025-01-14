@@ -45,6 +45,35 @@
           "text": "Sample Text "
         },
         "type": "ia.input.button"
+      },
+      {
+        "meta": {
+          "name": "PowerChart"
+        },
+        "position": {
+          "height": 388,
+          "width": 796,
+          "x": 1.5
+        },
+        "props": {
+          "interaction": {
+            "chartZoomLevel": 1,
+            "rangeZoomLevel": 1
+          }
+        },
+        "type": "ia.chart.powerchart"
+      },
+      {
+        "meta": {
+          "name": "Motor"
+        },
+        "position": {
+          "height": 100,
+          "width": 100,
+          "x": 82,
+          "y": 417.5
+        },
+        "type": "ia.symbol.motor"
       }
     ],
     "meta": {

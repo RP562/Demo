@@ -1,0 +1,1 @@
+SELECT * FROM	sepr.frc_logs 
