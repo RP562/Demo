@@ -36,13 +36,13 @@
           "name": "Button"
         },
         "position": {
-          "height": 113,
-          "width": 275,
-          "x": 264,
-          "y": 411
+          "height": 56,
+          "width": 276,
+          "x": 284,
+          "y": 608
         },
         "props": {
-          "text": "Sample Text "
+          "text": "Transalate\n"
         },
         "type": "ia.input.button"
       },
@@ -77,31 +77,26 @@
       },
       {
         "meta": {
-          "name": "LedDisplay_0"
+          "name": "Icon_0"
         },
         "position": {
-          "height": 32,
-          "width": 128,
-          "x": 151,
-          "y": 597.67
+          "height": 97,
+          "width": 110,
+          "x": 182,
+          "y": 576.67
         },
-        "type": "ia.display.led-display"
-      },
-      {
-        "meta": {
-          "name": "LedDisplay_1"
+        "props": {
+          "path": "material/g_translate"
         },
-        "position": {
-          "height": 32,
-          "width": 128,
-          "x": 357,
-          "y": 609.33
-        },
-        "type": "ia.display.led-display"
+        "type": "ia.display.icon"
       }
     ],
     "meta": {
       "name": "root"
+    },
+    "position": {
+      "x": 21,
+      "y": 17.5
     },
     "type": "ia.container.coord"
   }
