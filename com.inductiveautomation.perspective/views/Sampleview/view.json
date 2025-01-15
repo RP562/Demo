@@ -1,0 +1,108 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {},
+  "root": {
+    "children": [
+      {
+        "meta": {
+          "name": "Icon"
+        },
+        "position": {
+          "height": 30,
+          "width": 30,
+          "x": 367,
+          "y": 245
+        },
+        "props": {
+          "path": "material/apartment"
+        },
+        "type": "ia.display.icon"
+      },
+      {
+        "meta": {
+          "name": "LedDisplay"
+        },
+        "position": {
+          "height": 32,
+          "width": 128,
+          "x": 252,
+          "y": 142
+        },
+        "type": "ia.display.led-display"
+      },
+      {
+        "meta": {
+          "name": "Button"
+        },
+        "position": {
+          "height": 113,
+          "width": 275,
+          "x": 264,
+          "y": 411
+        },
+        "props": {
+          "text": "Sample Text "
+        },
+        "type": "ia.input.button"
+      },
+      {
+        "meta": {
+          "name": "PowerChart"
+        },
+        "position": {
+          "height": 388,
+          "width": 796,
+          "x": 1.5
+        },
+        "props": {
+          "interaction": {
+            "chartZoomLevel": 1,
+            "rangeZoomLevel": 1
+          }
+        },
+        "type": "ia.chart.powerchart"
+      },
+      {
+        "meta": {
+          "name": "Motor"
+        },
+        "position": {
+          "height": 100,
+          "width": 100,
+          "x": 82,
+          "y": 417.5
+        },
+        "type": "ia.symbol.motor"
+      },
+      {
+        "meta": {
+          "name": "LedDisplay_0"
+        },
+        "position": {
+          "height": 32,
+          "width": 128,
+          "x": 151,
+          "y": 597.67
+        },
+        "type": "ia.display.led-display"
+      },
+      {
+        "meta": {
+          "name": "LedDisplay_1"
+        },
+        "position": {
+          "height": 32,
+          "width": 128,
+          "x": 357,
+          "y": 609.33
+        },
+        "type": "ia.display.led-display"
+      }
+    ],
+    "meta": {
+      "name": "root"
+    },
+    "type": "ia.container.coord"
+  }
+}

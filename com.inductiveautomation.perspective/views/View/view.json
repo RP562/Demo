@@ -1,0 +1,154 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {},
+  "root": {
+    "children": [
+      {
+        "events": {
+          "component": {
+            "onActionPerformed": {
+              "config": {
+                "script": "\tProject_refresh.project_refresh(self)"
+              },
+              "scope": "G",
+              "type": "script"
+            }
+          }
+        },
+        "meta": {
+          "name": "Button"
+        },
+        "position": {
+          "height": 34,
+          "width": 198,
+          "x": 301,
+          "y": 266
+        },
+        "props": {
+          "text": "Project Refresh\\"
+        },
+        "type": "ia.input.button"
+      },
+      {
+        "meta": {
+          "name": "Status"
+        },
+        "position": {
+          "height": 32,
+          "width": 314,
+          "x": 243,
+          "y": 351
+        },
+        "props": {
+          "style": {
+            "textAlign": "center"
+          }
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "name": "Icon"
+        },
+        "position": {
+          "height": 94,
+          "width": 122,
+          "x": 339,
+          "y": 145
+        },
+        "props": {
+          "path": "material/insert_emoticon"
+        },
+        "type": "ia.display.icon"
+      },
+      {
+        "meta": {
+          "name": "Checkbox"
+        },
+        "position": {
+          "height": 45,
+          "width": 137,
+          "x": 49,
+          "y": 63
+        },
+        "type": "ia.input.checkbox"
+      },
+      {
+        "meta": {
+          "name": "Dropdown"
+        },
+        "position": {
+          "height": 44,
+          "width": 327,
+          "x": 235,
+          "y": 33
+        },
+        "type": "ia.input.dropdown"
+      },
+      {
+        "meta": {
+          "name": "PieChart"
+        },
+        "position": {
+          "height": 375,
+          "width": 600,
+          "x": 87,
+          "y": 367
+        },
+        "props": {
+          "colors": [
+            "#3366CC",
+            "#EC4B3D",
+            "#4FC86C",
+            "#00A9C6",
+            "#E69300"
+          ],
+          "data": [
+            {
+              "count": 36,
+              "flavor": "Pumpkin"
+            },
+            {
+              "count": 17,
+              "flavor": "Pecan"
+            },
+            {
+              "count": 14,
+              "flavor": "Apple"
+            },
+            {
+              "count": 10,
+              "flavor": "Sweet Potato"
+            },
+            {
+              "count": 9,
+              "flavor": "Chocolate"
+            }
+          ],
+          "title": "Favorite Pie Flavors"
+        },
+        "type": "ia.chart.pie"
+      },
+      {
+        "meta": {
+          "name": "Label"
+        },
+        "position": {
+          "height": 32,
+          "width": 50,
+          "x": 53,
+          "y": 35
+        },
+        "props": {
+          "text": "Label"
+        },
+        "type": "ia.display.label"
+      }
+    ],
+    "meta": {
+      "name": "root"
+    },
+    "type": "ia.container.coord"
+  }
+}
