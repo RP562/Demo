@@ -5,19 +5,22 @@
   "root": {
     "children": [
       {
-        "custom": {
-          "dset": "value"
-        },
         "meta": {
-          "name": "Table"
+          "name": "Motor"
         },
         "position": {
-          "basis": "400px"
+          "basis": "100px"
         },
-        "props": {
-          "data": null
+        "type": "ia.symbol.motor"
+      },
+      {
+        "meta": {
+          "name": "Vessel"
         },
-        "type": "ia.display.table"
+        "position": {
+          "basis": "100px"
+        },
+        "type": "ia.symbol.vessel"
       }
     ],
     "meta": {
