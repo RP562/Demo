@@ -24,27 +24,12 @@
       },
       {
         "meta": {
-          "name": "Label"
+          "name": "Motor_0"
         },
         "position": {
-          "basis": "32px"
+          "basis": "100px"
         },
-        "props": {
-          "text": "Motor Area"
-        },
-        "type": "ia.display.label"
-      },
-      {
-        "meta": {
-          "name": "Label_0"
-        },
-        "position": {
-          "basis": "32px"
-        },
-        "props": {
-          "text": "Motor Area"
-        },
-        "type": "ia.display.label"
+        "type": "ia.symbol.motor"
       }
     ],
     "meta": {
