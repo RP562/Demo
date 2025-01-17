@@ -10,3 +10,11 @@ def hello():
     import system.perspective
     print("Hello World")
     system.perspective.print("Hello Team")
+def newfunc():
+    import system
+    import system.db
+    system.db.runNamedQuery("selectq")
+def oldfunc():
+    import system
+    import system.util
+    system.util.getVersion()

@@ -72,6 +72,22 @@
           "x": 49,
           "y": 63
         },
+        "propConfig": {
+          "props.selected": {
+            "binding": {
+              "config": {
+                "bidirectional": true,
+                "fallbackDelay": 2.5,
+                "mode": "direct",
+                "tagPath": "[default]Request Scan"
+              },
+              "type": "tag"
+            }
+          }
+        },
+        "props": {
+          "text": "Project Refersh"
+        },
         "type": "ia.input.checkbox"
       },
       {
@@ -144,6 +160,18 @@
           "text": "Label"
         },
         "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "name": "Button_0"
+        },
+        "position": {
+          "height": 104,
+          "width": 130,
+          "x": 468,
+          "y": 145
+        },
+        "type": "ia.input.button"
       }
     ],
     "meta": {
