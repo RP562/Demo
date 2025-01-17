@@ -21,18 +21,6 @@
           "basis": "100px"
         },
         "type": "ia.symbol.vessel"
-      },
-      {
-        "meta": {
-          "name": "Label"
-        },
-        "position": {
-          "basis": "32px"
-        },
-        "props": {
-          "text": "Motor Area"
-        },
-        "type": "ia.display.label"
       }
     ],
     "meta": {
