@@ -1,0 +1,1 @@
+SELECT * FROM  sepr.adl_auditlogs 

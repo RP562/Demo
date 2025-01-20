@@ -1,4 +1,1 @@
-Added a project Refresh Script
-testing GitLab
-sync test
-sync test 2
+Added a named Query and Label

@@ -63,6 +63,18 @@
           "text": "20jan2025 11:58am"
         },
         "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "name": "Label_0"
+        },
+        "position": {
+          "basis": "32px"
+        },
+        "props": {
+          "text": "Comment by Rahul"
+        },
+        "type": "ia.display.label"
       }
     ],
     "meta": {
