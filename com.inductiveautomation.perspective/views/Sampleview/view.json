@@ -89,6 +89,33 @@
           "path": "material/g_translate"
         },
         "type": "ia.display.icon"
+      },
+      {
+        "meta": {
+          "name": "Valve"
+        },
+        "position": {
+          "height": 100,
+          "width": 100,
+          "x": 502,
+          "y": 467.5
+        },
+        "type": "ia.symbol.valve"
+      },
+      {
+        "meta": {
+          "name": "Label"
+        },
+        "position": {
+          "height": 112,
+          "width": 74,
+          "x": 582,
+          "y": 461.5
+        },
+        "props": {
+          "text": "added on 20jan25 11.48am"
+        },
+        "type": "ia.display.label"
       }
     ],
     "meta": {
