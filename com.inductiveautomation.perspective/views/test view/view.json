@@ -75,6 +75,18 @@
           "text": "Comment by Rahul"
         },
         "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "name": "Label_1"
+        },
+        "position": {
+          "basis": "32px"
+        },
+        "props": {
+          "text": "Comment by Rahul 2"
+        },
+        "type": "ia.display.label"
       }
     ],
     "meta": {
