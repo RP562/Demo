@@ -30,6 +30,39 @@
           "basis": "100px"
         },
         "type": "ia.symbol.motor"
+      },
+      {
+        "meta": {
+          "name": "Checkbox"
+        },
+        "position": {
+          "basis": "36px"
+        },
+        "props": {
+          "text": "Working?"
+        },
+        "type": "ia.input.checkbox"
+      },
+      {
+        "meta": {
+          "name": "Slider"
+        },
+        "position": {
+          "basis": "32px"
+        },
+        "type": "ia.input.slider"
+      },
+      {
+        "meta": {
+          "name": "Label"
+        },
+        "position": {
+          "basis": "32px"
+        },
+        "props": {
+          "text": "20jan2025 11:58am"
+        },
+        "type": "ia.display.label"
       }
     ],
     "meta": {
